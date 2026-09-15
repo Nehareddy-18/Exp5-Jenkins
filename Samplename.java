@@ -4,6 +4,6 @@ public class Samplename {
         String name = "Neha Reddy";
 
         // print the name to the console
-        System.out.println("Hello, my name is " + name);
+        System.out.println("Hello, my name is Neha Reddy - Updated ");
     }
 }
